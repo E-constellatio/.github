@@ -1,21 +1,21 @@
 <div align="center">
     <img src="https://github.com/E-constellatio/.github/blob/main/profile/resources/E-constellatio.svg" alt="Logo" height="150px">
     <h1>
-        Welcome in E-constellatio Github organization
+        Welcome to the E-constellatio's Github organization
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hi hand" width="30px"/>
     </h1>
 </div>
 
-This organization contain repositories of E-constellatio website. Repositories of other products can be found
-in [Libra foundation organization](https://github.com/Libra-foundation)
-and [Correlatio organization](https://github.com/Correlatio-company).
+This organization contains repositories of E-constellatio website. Repositories which hold products of Correlatio can be
+found in [Correlatio organization](https://github.com/Correlatio-company). All open source projects can be found
+in [Libra foundation organization](https://github.com/Libra-foundation).
 
 <h2 align="center">
     What is E-constellatio ?
 </h2>
 
 <p>
-    E-constellatio is a French and young company based in Belfort created by 3 friends. Company is mainly specialized in digital solutions, and is divided in 3 branches with their field of activity.
+    E-constellatio is a French and young company based in Belfort created by 3 friends specialized in digital solutions. E-constellatio iss divided in 3 branches with their field of activity.
 </p>
 
 <h2 align="center">
@@ -32,7 +32,7 @@ and [Correlatio organization](https://github.com/Correlatio-company).
         </summary>
         <div align="left">
             <p>
-                Lux Digitalis is the E-constellatio branch which offer digital consulting and freelancing in web design, integration (front end and back end), AI and cloud infrastructure. Its strong experience in web development is showing through products offered by other E-constellatio branches. We provide skilled people who mastered in a plenty of technologies such as : 
+                Lux Digitalis is the E-constellatio's branch which offer digital consulting and freelancing in web design, integration (front end and back end), AI and cloud infrastructure. Its strong experience in web development is showing through products offered by other E-constellatio branches. We provide skilled people who mastered plenty of technologies such as : 
             </p>
         </div>
         <a href="https://www.typescriptlang.org/">
@@ -106,7 +106,7 @@ and [Correlatio organization](https://github.com/Correlatio-company).
         </summary>
         <div align="left">
             <p>
-                Libra offers abundant free and open digital solutions like softwares, websites, servers, template etc. Open products :
+                Libra offers abundant free and open digital solutions like softwares, websites, servers, templates etc. Open products :
             </p>
         </div>
         <a href="https://github.com/Libra-foundation/Collaboratio">
@@ -127,12 +127,12 @@ and [Correlatio organization](https://github.com/Correlatio-company).
 
 <div align="center">
     <a href="https://github.com/galyfray">
-        <img src="https://avatars.githubusercontent.com/u/37240229?v=4" alt="Galyfray profile image" height="50">
+        <img src="https://avatars.githubusercontent.com/u/37240229?v=4" alt="Galyfray's profile image" height="50">
     </a>
     <a href="https://github.com/Beladric">
-        <img src="https://avatars.githubusercontent.com/u/37240228?v=4" alt="Beladric profile image" height="50">
+        <img src="https://avatars.githubusercontent.com/u/37240228?v=4" alt="Beladric's profile image" height="50">
     </a>
     <a href="https://github.com/mnoel2000">
-        <img src="https://avatars.githubusercontent.com/u/95273889?v=4" alt="mnoel2000 profile image" height="50"> 
+        <img src="https://avatars.githubusercontent.com/u/95273889?v=4" alt="mnoel2000's profile image" height="50"> 
     </a>
 </div>
