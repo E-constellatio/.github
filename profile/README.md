@@ -1,21 +1,21 @@
 <div align="center">
-    <img src="https://github.com/E-constellatio/.github/blob/main/profile/resources/E-constellatio.svg" alt="Logo" height="150px">
+    <img src="https://github.com/E-constellatio/Resources/blob/master/icons/E-constellatio/E-constellatio.svg" alt="Logo" height="150px">
     <h1>
         Welcome to the E-constellatio's Github organization
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hi hand" width="30px"/>
     </h1>
 </div>
 
-This organization contains repositories of E-constellatio website. Repositories which hold products of Correlatio can be
-found in [Correlatio organization](https://github.com/Correlatio-company). All open source projects can be found
-in [Libra foundation organization](https://github.com/Libra-foundation).
+This organization contains repositories of the E-constellatio website. Repositories which hold products of Correlatio
+can be found in the [Correlatio organization](https://github.com/Correlatio-company). All our open sources projects can
+be found in the [Libra foundation organization](https://github.com/Libra-foundation).
 
 <h2 align="center">
     What is E-constellatio ?
 </h2>
 
 <p>
-    E-constellatio is a French and young company based in Belfort created by 3 friends specialized in digital solutions. E-constellatio iss divided in 3 branches with their field of activity.
+    E-constellatio is a French and young company based in Belfort created by 3 friends specialized in digital solutions. E-constellatio is divided in 3 branches with their field of activity.
 </p>
 
 <h2 align="center">
@@ -23,7 +23,7 @@ in [Libra foundation organization](https://github.com/Libra-foundation).
 </h2>
 
 <div align="center">
-    <img src="https://github.com/E-constellatio/.github/blob/main/profile/resources/LuxDigitalis.svg" alt="Lux digitalis logo" height="50"/>
+    <img src="https://github.com/E-constellatio/Resources/blob/master/icons/Lux%20digitalis/Lux_Digitalis.svg" alt="Lux digitalis logo" height="50"/>
     <details>
         <summary>
             <h3>
@@ -78,7 +78,7 @@ in [Libra foundation organization](https://github.com/Libra-foundation).
 </div>
 
 <div align="center">
-    <img src="https://github.com/E-constellatio/.github/blob/main/profile/resources/Puff.svg" alt="Correlatio logo" height="50"/>
+    <img src="https://avatars.githubusercontent.com/u/115875212?s=400&v=4" alt="Correlatio logo" height="50"/>
     <details>
         <summary>
             <h3>
@@ -97,7 +97,7 @@ in [Libra foundation organization](https://github.com/Libra-foundation).
 </div>
 
 <div align="center">
-    <img src="https://github.com/E-constellatio/.github/blob/main/profile/resources/Puff.svg" alt="Libra logo" height="50"/>
+    <img src="https://avatars.githubusercontent.com/u/120605611?s=400&v=4" alt="Libra logo" height="50"/>
     <details>
         <summary>
             <h3>
