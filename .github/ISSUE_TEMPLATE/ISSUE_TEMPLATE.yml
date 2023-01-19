@@ -48,8 +48,8 @@ body:
           * Browser with version (if applicable)
           * IDE with version (if applicable)
           * Anything that might be useful to reproduce your issue
-      validations:
-        required: true
+    validations:
+      required: true
     - type: checkboxes
       id: terms
       attributes:
