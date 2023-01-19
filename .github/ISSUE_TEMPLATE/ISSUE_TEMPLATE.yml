@@ -1,5 +1,5 @@
-name: 🐛 Bug Report
-description: Something is wrong with React Router
+name: Bug Report
+description: Unexpexted behaviour
 title: "[Bug]: "
 labels:
   - bug
@@ -7,33 +7,22 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for contributing!
-
-        Do you need some help?
-        ======================
-        The issue tracker is meant for bug reports only. This isn't the best place for support
-        or usage questions. Questions here don't have as much visibility as they do elsewhere.
-        Before you ask a question, here are some resources to get help first:
-
-        - Read the docs: https://reactrouter.com
-        - Check out the list of frequently asked questions: https://reactrouter.com/start/faq
-        - Explore examples: https://reactrouter.com/start/examples
-        - Ask in chat: https://rmx.as/discord
-        - Look for/ask questions on Stack Overflow: https://stackoverflow.com/questions/tagged/react-router
-
-        ### Test Case Starters:
-
-        * [Using `<RouterProvider>`](https://stackblitz.com/github/remix-run/react-router/tree/main/examples/data-router?file=src/App.tsx)
-        * [Using `<BrowserRouter>`](https://stackblitz.com/github/remix-run/react-router/tree/main/examples/basic?file=src/App.tsx)
-  - type: input
+        Issues are formatted using markdown, a useful summary of the features provided by GitHub can be found [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
+  - type: textarea
     attributes:
-      label: What version of React Router are you using?
-    validations:
-      required: true
+      label: Expected behaviour ?
+      description: Please describe the behavior you are expecting
+      validations:
+        required: true
   - type: textarea
     attributes:
       label: Steps to Reproduce
-      description: Steps to reproduce the behavior.
+      description:
+        Please provide detailed steps for reproducing the issue.
+
+          1. step 1
+          2. step 2
+          3. you get it...
     validations:
       required: true
   - type: textarea
@@ -44,7 +33,28 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Actual Behavior
+      label: Current behavior
       description: A concise description of what you're experiencing.
     validations:
       required: true
+  - type: textarea
+    attributes:
+      label: Context
+      description:
+        Please provide any relevant information about your setup. This is important in case the issue is not reproducible except when under certain conditions.
+
+          * Environment version (node, npm, python... pick only the relevant ones)
+          * Platform (Linux, Windows, Mac os)
+          * Browser with version (if applicable)
+          * IDE with version (if applicable)
+          * Anything that might be useful to reproduce your issue
+    validations:
+      required: true
+        - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
