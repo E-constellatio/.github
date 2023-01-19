@@ -87,7 +87,7 @@ be found in the [Libra foundation organization](https://github.com/Libra-foundat
         </summary>
         <div align="left">
             <p>
-                Correlatio offer large amount of statistical computation using AI based on open data of French government and other open statistics foundation.
+                 Correlatio offer large amount of statistical computation and AI based indexes based on open data of French government and other open statistics foundation.
             </p>
         </div>
         <a href="">
