@@ -1,5 +1,5 @@
-name: Bug Report
-description: Unexpexted behaviour
+name: :bug: Bug Report
+description: Report an unexpexted behaviour
 title: "[Bug]: "
 labels:
   - bug
