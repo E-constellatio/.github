@@ -12,8 +12,8 @@ body:
     attributes:
       label: Expected behaviour ?
       description: Please describe the behavior you are expecting
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: Steps to Reproduce
