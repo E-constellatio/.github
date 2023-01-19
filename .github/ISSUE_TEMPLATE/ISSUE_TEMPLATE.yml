@@ -48,7 +48,7 @@ body:
     id: terms
     attributes:
       label: Checks
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      description: By submitting this issue, you agree to follow our Code of Conduct.
       options:
         - label: I am running the latest version
           required: true
