@@ -40,14 +40,7 @@ body:
   - type: textarea
     attributes:
       label: Context
-      description:
-        Please provide any relevant information about your setup. This is important in case the issue is not reproducible except when under certain conditions.
-
-          * Environment version (node, npm, python... pick only the relevant ones)
-          * Platform (Linux, Windows, Mac os)
-          * Browser with version (if applicable)
-          * IDE with version (if applicable)
-          * Anything that might be useful to reproduce your issue
+      description: Please provide any relevant information about your setup. This is important in case the issue is not reproducible except when under certain conditions.
     validations:
       required: true
     - type: checkboxes
