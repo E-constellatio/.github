@@ -91,7 +91,7 @@ be found in the [Libra foundation organization](https://github.com/Libra-foundat
             </p>
         </div>
         <a href="">
-            <img src="https://github.com/E-constellatio/.github/blob/main/profile/resources/Crimen.svg" alt="Crimen logo" height="50">
+            <img src="https://github.com/E-constellatio/Resources/blob/master/icons/Correlatio/Crimen/Crimen.svg" alt="Crimen logo" height="50">
         </a>
     </details>
 </div>
