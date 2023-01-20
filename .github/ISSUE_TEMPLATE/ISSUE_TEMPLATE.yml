@@ -31,13 +31,13 @@ body:
       label: Context
       description: Please provide any relevant information about your setup. This is important in case the issue is not reproducible except when under certain conditions.
     validations:
-      required: true
+      required: false
   - type: textarea
     attributes:
       label: Logs
-      description: Please include any relevant log here. Complete log files are preferred, remember to anonymise any personal data in it.
+      description: Please include any relevant log here. Complete log files are preferred, remember to anonymise any personal data in it (text format is preferrable than screenshot).
     validations:
-      required: true
+      required: false
   - type: checkboxes
     id: terms
     attributes:
