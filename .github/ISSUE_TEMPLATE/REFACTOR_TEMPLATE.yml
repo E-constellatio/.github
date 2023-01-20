@@ -2,7 +2,7 @@ name: 🏭 Refactor request
 description: Refactor an existing feature
 title: "[REFACTOR]: "
 labels:
-  - Refactor
+  - refactor
 body:
   - type: markdown
     attributes:
