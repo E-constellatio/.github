@@ -10,12 +10,6 @@ body:
         Issues are formatted using markdown, a useful summary of the features provided by GitHub can be found [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
   - type: textarea
     attributes:
-      label: Expected behaviour ?
-      description: Please describe the behavior you are expecting
-    validations:
-      required: true
-  - type: textarea
-    attributes:
       label: Steps to Reproduce
       description: Please provide detailed steps for reproducing the issue.
     validations:
