@@ -110,13 +110,13 @@ be found in the [Libra foundation organization](https://github.com/Libra-foundat
             </p>
         </div>
         <a href="https://github.com/Libra-foundation/Collaboratio">
-            <img src="https://github.com/E-constellatio/.github/blob/main/profile/resources/Collaboratio.svg" alt="Collaboratio logo" height="50">
+            <img src="https://github.com/E-constellatio/Resources/blob/master/icons/Libra/Collaboratio/Collaboratio.svg" alt="Collaboratio logo" height="50">
         </a>
         <a href="https://github.com/Libra-foundation/react-template">
-            <img src="https://github.com/E-constellatio/.github/blob/main/profile/resources/ReactTemplate.svg" alt="React template logo" height="50">
+            <img src="https://github.com/E-constellatio/Resources/blob/master/icons/Libra/React%20Template/React_Template.svg" alt="React template logo" height="50">
         </a>
         <a href="https://github.com/Libra-foundation/python-template">
-            <img src="https://github.com/E-constellatio/.github/blob/main/profile/resources/PythonTemplate.svg" alt="Python template logo" height="50">
+            <img src="https://github.com/E-constellatio/Resources/blob/master/icons/Libra/Python%20Template/Python_template.svg" alt="Python template logo" height="50">
         </a>
     </details>
 </div>
