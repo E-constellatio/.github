@@ -1,6 +1,6 @@
 name: 🐛 Bug Report
 description: Report an unexpexted behaviour
-title: "[Bug]: "
+title: "[BUG]: "
 labels:
   - bug
 body:
