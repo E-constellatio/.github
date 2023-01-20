@@ -22,12 +22,6 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Expected Behavior
-      description: A concise description of what you expected to happen.
-    validations:
-      required: true
-  - type: textarea
-    attributes:
       label: Implementation
       description: What solution do you suggest ? You can add here technical details if you have the knowledge.
     validations:
